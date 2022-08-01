@@ -1,2 +1,4 @@
-# NF-PW1
-#Tugas smt 1 di STTNF
+# Pembelajaran Semester 1 Teknik Informatika
+# STTNF - DEPOK
+# Web Dasar 
+#Html,Css dan JavaScript
